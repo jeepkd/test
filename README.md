@@ -1,2 +1,2 @@
 # test
-![hello](/test-diagram-01.drawio.svg)
+![hello](/images/test-diagram-01.drawio.svg)
